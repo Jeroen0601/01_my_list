@@ -1,0 +1,38 @@
+header {
+    background-color: #009933;
+}
+h1 {
+    color: #ffffff;
+}
+p {
+    color: #000000;
+}
+	
+body {
+    background-color: #66ff66;
+}
+h1 {
+    color: #ffffff;
+}
+p {
+    color: #000000;
+}
+
+.header1 {
+  background-color: #009933;
+  border: 1px solid #FFF;
+  padding-left: 100px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+
+table {
+  width: 50%;
+  border: 1px solid #FFF;
+  border-collapse: collapse;
+  padding-left: 100px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: left;
+}
